@@ -77,13 +77,16 @@ Program Committee: A group of individuals responsible for making the final decis
 
 5.1 Use Case Diagram
 
-Actors:- 1. Guest(Doesnt login)
+Actors:- 
+1. Guest(Doesnt login)
          
-         2. Speaker
+2. Speaker
          
-         3. Reviewer
+3. Reviewer
          
-         4. Programme Committee/Organizer
+4. Programme Committee/Organizer
+
+   
 ![image](https://github.com/SauravB210489CS/selab23_basics/assets/155982778/1c2726fc-f33d-4bf8-b674-7852f1463f54)
 
 
