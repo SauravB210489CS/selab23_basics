@@ -75,8 +75,9 @@ Program Committee: A group of individuals responsible for making the final decis
 
 5. Diagrams
 5.1 Use Case Diagram
-[Insert Use Case Diagram here]
+   ![image](https://github.com/SauravB210489CS/selab23_basics/assets/155982778/a2c1905e-5af8-487e-ad45-aced0307a6b2)
 
-6. Conclusion
+
+7. Conclusion
    
 The NITCONF website aims to streamline the paper submission and review process for the conference. By implementing the outlined requirements, the system will provide a user-friendly experience for speakers, reviewers, and the Program Committee.
