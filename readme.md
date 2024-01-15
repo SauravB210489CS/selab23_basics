@@ -76,7 +76,8 @@ Program Committee: A group of individuals responsible for making the final decis
 5. Diagrams
 
 5.1 Use Case Diagram
-   ![image](https://github.com/SauravB210489CS/selab23_basics/assets/155982778/a2c1905e-5af8-487e-ad45-aced0307a6b2)
+![image](https://github.com/SauravB210489CS/selab23_basics/assets/155982778/1c2726fc-f33d-4bf8-b674-7852f1463f54)
+
 
 
 6. Conclusion
