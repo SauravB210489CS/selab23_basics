@@ -99,7 +99,7 @@ The NITCONF website aims to streamline the paper submission and review process f
 
 
 
-To authenticate speakers during the login process, you can implement a secure authentication system with a username and password. Here's how you can design the authentication process:
+7.To authenticate speakers during the login process, you can implement a secure authentication system with a username and password. Here's how you can design the authentication process:
 
 Speaker Authentication Process:
 1. User Registration:
