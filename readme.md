@@ -94,3 +94,32 @@ Actors:-
 6. Conclusion
    
 The NITCONF website aims to streamline the paper submission and review process for the conference. By implementing the outlined requirements, the system will provide a user-friendly experience for speakers, reviewers, and the Program Committee.
+
+
+
+
+
+To authenticate speakers during the login process, you can implement a secure authentication system with a username and password. Here's how you can design the authentication process:
+
+Speaker Authentication Process:
+1. User Registration:
+Speakers can create an account by providing necessary information such as name, email address, and a password.
+
+The registration form should include fields for required information, and the system should verify the uniqueness of email addresses to prevent duplicate accounts.
+
+2. Login Page:
+On the homepage, include a "Login" button that directs users to the login page.
+
+The login page will have fields for email address and password.
+
+3. Authentication Mechanism:
+Use secure protocols (HTTPS) to encrypt data during transmission.
+
+Hash and salt passwords before storing them in the database to enhance security.
+
+Implement email verification for new accounts to ensure the validity of speaker email addresses.
+
+4. Session Management:
+Once authenticated, create a session for the speaker to maintain their logged-in state during the session.
+
+Implement a session timeout mechanism to automatically log out users after a certain period of inactivity.
